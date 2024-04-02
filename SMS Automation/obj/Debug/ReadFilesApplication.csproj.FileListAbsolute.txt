@@ -1,0 +1,10 @@
+C:\Users\SQ1User\Desktop\errer\SMS Automation\bin\Debug\ReadFilesApplication.exe.config
+C:\Users\SQ1User\Desktop\errer\SMS Automation\bin\Debug\ReadFilesApplication.exe
+C:\Users\SQ1User\Desktop\errer\SMS Automation\bin\Debug\ReadFilesApplication.pdb
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\SMS_Automation.DP.resources
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\ReadFileApplication.Form1.resources
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\Read_Files_Application.Properties.Resources.resources
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\ReadFilesApplication.csproj.GenerateResource.cache
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\ReadFilesApplication.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\ReadFilesApplication.exe
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\ReadFilesApplication.pdb

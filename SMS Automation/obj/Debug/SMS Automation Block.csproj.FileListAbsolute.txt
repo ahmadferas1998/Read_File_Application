@@ -1,0 +1,23 @@
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS_Automation.DP.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS_Automation.Form1.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS_Automation.NewTemp.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS_Automation.Templates.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS Automation Block.csproj.GenerateResource.cache
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS Automation Block.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\bin\Debug\SMS Automation Block.exe.config
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\bin\Debug\SMS Automation Block.exe
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\bin\Debug\SMS Automation Block.pdb
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS_Automation_Block.Properties.Resources.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS Automation Block.exe
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS Automation Block.pdb
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation\SMS Automation\obj\Debug\SMS Automation Block.csproj.AssemblyReference.cache
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\SMS_Automation.DP.resources
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\ReadFileApplication.Form1.resources
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\SMS_Automation_Block.Properties.Resources.resources
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\SMS Automation Block.csproj.GenerateResource.cache
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\SMS Automation Block.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\SMS Automation Block.exe
+C:\Users\SQ1User\Desktop\errer\SMS Automation\obj\Debug\SMS Automation Block.pdb
+C:\Users\SQ1User\Desktop\errer\SMS Automation\bin\Debug\SMS Automation Block.exe.config
+C:\Users\SQ1User\Desktop\errer\SMS Automation\bin\Debug\SMS Automation Block.exe
+C:\Users\SQ1User\Desktop\errer\SMS Automation\bin\Debug\SMS Automation Block.pdb
